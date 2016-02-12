@@ -1,0 +1,13 @@
+Dicas de como gerenciar o repositório via Linux
+https://www.vivaolinux.com.br/dica/GitHub-Gerenciando-repositorio-pelo-terminal
+
+Comandos importantes:
+
+Depois de feito essa configurações iniciais, bastará apenas usar os seguintes comandos para administrar: 
+
+$ git status
+$ git add seu-arquivo
+$ git commit -m "qualquer-coisa"
+$ git push -u origin master 
+
+Caso crie outro repositório. Terá que repetir as configurações que citei no início do guia.
