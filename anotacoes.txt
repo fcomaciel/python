@@ -8,6 +8,7 @@ Depois de feito essa configurações iniciais, bastará apenas usar os seguintes
 $ git status
 $ git add seu-arquivo
 $ git commit -m "qualquer-coisa"
+$ git pull python master
 $ git push -u origin master 
 
 Caso crie outro repositório. Terá que repetir as configurações que citei no início do guia.
